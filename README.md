@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Thiago200320/Thiago200320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/Thiago200320/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Thiago200320"/>
+</a>
+<a href="https://github.com/Thiago200320/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago200320&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img allign="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+<img allign="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img allign="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</div>
