@@ -1,7 +1,7 @@
 <h1>|| Ola! Me chamo Thiago e bem-vindo(a) ao meu Git Hub! ||</h1>
 <h3>Eu sou um Desenvolvedor Full-Stack e estou em busca do meu primeiro emprego! (⌐■_■)
   <br>
-  Estou Apredendo: Javascrpit, Html&CSS e PhP 🤓🤓🤓
+  Estou Apredendo: Javascrpit, Html&CSS e PhP. 🤓🤓🤓
   <br>
     Estou Terminando meu curso de ADS!🎉🎉🎉</h3>
     <br>
